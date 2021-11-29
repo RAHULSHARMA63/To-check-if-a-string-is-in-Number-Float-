@@ -1,0 +1,1 @@
+# To-check-if-a-string-is-in-Number-Float-
